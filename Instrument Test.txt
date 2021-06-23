@@ -1,0 +1,95 @@
+   1. Memunculkan data movie:
+        Memastikan bottom_nav dalam keadaan tampil
+
+        Memastikan nav_movie dalam keadaan tampil
+
+        Memastikan rv_movie dalam keadaan tampil
+
+        Gulir rv_movie ke posisi terakhir
+
+   2. Memunculkan data movie:
+
+        Memastikan bottom_nav dalam keadaan tampil
+
+        Memastikan nav_movie dalam keadaan tampil
+
+        Memberikan tindakan klik pada data pertama rv_movie
+
+        Memberikan tindakan tekan balik menuju rv_movie
+
+        Memastikan  rv_movie dalam keadaan tampil
+
+        Memberikan tindakan klik pada data terakhir rv_movie
+
+        Memberikan tindakan tekan balik menuju rv_movie
+
+   3. Memunculkan DetailMovie:
+
+      Memastikan ImageView untuk poster movie tampil
+
+      Memastikan TextView untuk movie title tampil sesuai dengan yang diharapkan
+
+      Memastikan TextView untuk movie tagline tampil sesuai dengan yang diharapkan
+
+      Memastikan TextView untuk score tampil
+
+      Memastikan Texview untuk movie release date tampil sesuai dengan yang diharapkan
+
+      Memberikan tindakan tekan balik menuju rv_movie
+
+
+
+   4. Menculkan SplashScreen:
+
+       Memastikan Logo "playjoy" tampil
+       
+       Memastikan Textview "Design by Randy" tampil
+
+   5. Memunculkan data Tv Show:
+
+        Memastikan bottom_nav dalam keadaan tampil
+
+        Memastikan nav_tvShows dalam keadaan tampil
+
+        Memastikan rv_tvShow dalam keadaan tampil
+
+        Gulir rv_tvShow ke posisi terakhir
+
+   6. Memunculkan data Tv Show:
+
+        Memastikan bottom_nav dalam keadaan tampil
+
+        Memastikan nav_tvShows dalam keadaan tampil
+
+        Memberikan tindakan klik pada data pertama rv_tvShow
+
+        Memberikan tindakan tekan balik menuju rv_tvShow
+
+        Memastikan rv_tvShow dalam keadaan tampil
+
+        Memberikan tindakan klik pada data terakhir rv_tvShow
+
+        Memberikan tindakan tekan balik menuju rv_tvShow
+
+  7. Memunculkan DetailTvShow:
+
+       Memberikan tindakan klik bottom_nav
+
+       Memastikan nav_tvShows dalam keadaan tampil
+
+       Memberikan tindakan klik pada data pertama rv_tvShow
+
+       Memastikan ImageView untuk poster tvshow tampil
+
+       Memastikan TextView untuk tvshow title tampil sesuai dengan yang diharapkan
+
+       Memastikan TextView untuk tvshow tagline tampil sesuai dengan yang diharapkan
+
+       Memastikan TextView untuk score tampil
+
+       Memastikan Texview untuk tvshow release date tampil sesuai dengan yang diharapkan
+
+       Memberikan tindakan tekan balik menuju rv_tvshow
+
+
+       
