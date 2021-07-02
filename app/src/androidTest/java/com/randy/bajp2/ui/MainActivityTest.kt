@@ -77,7 +77,9 @@ class MainActivityTest {
             .check(matches(isDisplayed()))
         onView(withId(R.id.iv_small_poster))
             .check(matches(isDisplayed()))
-
+            
+        onView(isRoot()).perform(swipeUp())
+        
         onView(withId(R.id.tv_title))
             .check(matches(isDisplayed()))
         onView(withId(R.id.tv_tag_line))
@@ -137,7 +139,9 @@ class MainActivityTest {
               .check(matches(isDisplayed()))
           onView(withId(R.id.iv_small_poster))
               .check(matches(isDisplayed()))
-
+              
+          onView(isRoot()).perform(swipeUp())
+          
           onView(withId(R.id.tv_title))
               .check(matches(isDisplayed()))
           onView(withId(R.id.tv_tag_line))
